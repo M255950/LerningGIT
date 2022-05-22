@@ -1,0 +1,9 @@
+class DemoCon{
+int a=20;
+int b=25;
+int c=30;
+public static void main(String []args){
+DemoCon d=new DemoCon();
+System.out.println(d);
+}
+}
